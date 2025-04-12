@@ -1,4 +1,4 @@
-![BAZOKA](![image](https://github.com/user-attachments/assets/3ac28125-455b-4416-8e2f-4d5c9620cd80)
+![BAZOKA](![[image](https://github.com/user-attachments/assets/3ac28125-455b-4416-8e2f-4d5c9620cd80](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVzN2s5ZnlkMWg0eXIwdmp5dzZiODh4NWhwMnE5MDBsb2lsYW8zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFTqj4xqVc2mHZnHox/giphy.gif))
 )
 
 # Dirsearch Setup Guide
