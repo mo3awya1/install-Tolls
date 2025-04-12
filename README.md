@@ -1,3 +1,5 @@
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hrZTlsMmlnNjRzajV4YndqZHY5cThiN2lseHhiaTg5NjhxdnAyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fX5bzNtEBectmFBxer/giphy.gif" width="850" height="auto" />
+
 
 # Dirsearch Setup Guide
 
